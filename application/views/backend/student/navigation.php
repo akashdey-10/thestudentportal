@@ -20,22 +20,7 @@
                             }
                             ?>
 
-                    <a href="#" class="waves-effect"><img src="<?php echo base_url() . $face_file;?>" alt="user-img" class="img-circle"> <span class="hide-menu">
-
-                       <?php 
-                                $account_type   =   $this->session->userdata('login_type');
-                                $account_id     =   $account_type.'_id';
-                                $name           =   $this->crud_model->get_type_name_by_id($account_type , $this->session->userdata($account_id), 'name');
-                                echo $name;
-                        ?>
-                        <span class="fa arrow"></span></span>
-                    </a>
-                        <ul class="nav nav-second-level">
-                            <li><a href="javascript:void(0)"><i class="ti-user"></i> My Profile</a></li>
-                            <li><a href="javascript:void(0)"><i class="ti-email"></i> Inbox</a></li>
-                            <li><a href="javascript:void(0)"><i class="ti-settings"></i> Account Setting</a></li>
-                            <li><a href="<?php echo base_url();?>login/logout"><i class="fa fa-power-off"></i> Logout</a></li>
-                        </ul>
+                    
                 </li>
 
 
