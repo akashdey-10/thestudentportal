@@ -25896,7 +25896,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    });
 	  };
 	} else {
-	  // old school shim for old browsers
+	  // old college shim for old browsers
 	  module.exports = function inherits(ctor, superCtor) {
 	    ctor.super_ = superCtor
 	    var TempCtor = function () {}
@@ -36251,7 +36251,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    });
 	  };
 	} else {
-	  // old school shim for old browsers
+	  // old college shim for old browsers
 	  module.exports = function inherits(ctor, superCtor) {
 	    ctor.super_ = superCtor
 	    var TempCtor = function () {}

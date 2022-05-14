@@ -431,7 +431,7 @@ class CI_Pagination {
 		{
 			$get = $this->CI->input->get();
 
-			// Unset the control, method, old-school routing options
+			// Unset the control, method, old-college routing options
 			unset($get['c'], $get['m'], $get[$this->query_string_segment]);
 		}
 		else

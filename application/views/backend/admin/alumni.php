@@ -156,7 +156,7 @@
    							<th><div><?php echo get_phrase('phone');?></div></th>
                             <th><div><?php echo get_phrase('profession');?></div></th>
 						   	<th><div><?php echo get_phrase('graduation_year');?></div></th>
-                            <th><div><?php echo get_phrase('school_club');?></div></th>
+                            <th><div><?php echo get_phrase('college_club');?></div></th>
                             <th><div><?php echo get_phrase('Interest');?></div></th>
                             <th><div><?php echo get_phrase('options');?></div></th>
                         </tr>

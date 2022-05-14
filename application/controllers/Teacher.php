@@ -178,7 +178,7 @@ class Teacher extends CI_Controller {
             $this->load->view('backend/index', $page_data);
         }
         /******************** /Ends here **********************/
-     /***********  The function below manages school marks ***********************/
+     /***********  The function below manages college marks ***********************/
      function marks ($exam_id = null, $class_id = null, $student_id = null){
 
         if($this->input->post('operation') == 'selection'){
@@ -224,11 +224,11 @@ class Teacher extends CI_Controller {
         $page_data['page_title']    = get_phrase('Student Marks');
         $this->load->view('backend/index', $page_data);
     }
-    /***********  The function that manages school marks ends here ***********************/
+    /***********  The function that manages college marks ends here ***********************/
 
 
 
-    /***********  The function below manages school marks ***********************/
+    /***********  The function below manages college marks ***********************/
     function student_marksheet_subject ($exam_id = null, $class_id = null, $subject_id = null){
 
     if($this->input->post('operation') == 'selection'){
@@ -274,7 +274,7 @@ class Teacher extends CI_Controller {
     $page_data['page_title']    = get_phrase('Student Marks');
     $this->load->view('backend/index', $page_data);
     }
-    /***********  The function that manages school marks ends here ***********************/    
+    /***********  The function that manages college marks ends here ***********************/    
 
 
 

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A complete and most powerful school system management system for all. Purchase and enjoy">
+    <meta name="description" content="A complete and most powerful college system management system for all. Purchase and enjoy">
     <meta name="author" content="OPTIMUM LINKUP COMPUTERS">
 		<?php 
 		//////////LOADING SYSTEM SETTINGS FOR ALL PAGES AND ACCOUNTS/////////

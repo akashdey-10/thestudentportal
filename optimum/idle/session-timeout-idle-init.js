@@ -9,7 +9,7 @@ var UIIdleTimeout = function() {
                 keepAliveURL: "/keep-alive",
                 serverResponseEquals: "OK",
                 onTimeout: function() {
-                    window.location = "http://127.0.0.1/ofineschool/lockscreen"
+                    window.location = "http://127.0.0.1/ofinecollege/lockscreen"
                 },
                 onIdle: function() {
                     $("#idle-timeout-dialog").modal("show"), o = $("#idle-timeout-counter"), $("#idle-timeout-dialog-keepalive").on("click", function() {

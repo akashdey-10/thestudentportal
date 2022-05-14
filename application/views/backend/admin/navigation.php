@@ -47,7 +47,7 @@
     <?php $check_admin_permission = $this->db->get_where('admin_role', array('admin_id' => $this->session->userdata('login_user_id')))->row()->manage_employee;?>
     <?php if($check_admin_permission == '1'):?> 
 
-        <li class="staff"> <a href="javascript:void(0);" class="waves-effect"><i data-icon="&#xe006;" class="fa fa-angle-double-right p-r-10"></i> <span class="hide-menu"><?php echo get_phrase('Manage Employees');?><span class="fa arrow"></span></span></a>
+        <li class="staff"> <a href="javascript:void(0);" class="waves-effect"> <span class="hide-menu"><?php echo get_phrase('Manage Employees');?><span class="fa arrow"></span></span></a>
         
                         <ul class=" nav nav-second-level<?php
             if ($page_name == 'teacher' ||
@@ -70,23 +70,7 @@
                     
 
 
-            <li class="<?php if ($page_name == 'librarian') echo 'active'; ?> ">
-                <a href="<?php echo base_url(); ?>admin/librarian">
-                <i class="fa fa-angle-double-right p-r-10"></i>
-                      <span class="hide-menu"><?php echo get_phrase('librarians'); ?></span>
-                </a>
-            </li>
-
-
-
-
-
-            <li class="<?php if ($page_name == 'accountant') echo 'active'; ?> ">
-                <a href="<?php echo base_url(); ?>admin/accountant">
-                <i class="fa fa-angle-double-right p-r-10"></i>
-                      <span class="hide-menu"><?php echo get_phrase('accountants'); ?></span>
-                </a>
-            </li>
+           
 
 
 
@@ -106,7 +90,7 @@
     <?php $check_admin_permission = $this->db->get_where('admin_role', array('admin_id' => $this->session->userdata('login_user_id')))->row()->manage_student;?>
     <?php if($check_admin_permission == '1'):?>          
                 
-        <li class="student"> <a href="#" class="waves-effect"><i data-icon="&#xe006;" class="fa fa-users p-r-10"></i> <span class="hide-menu"><?php echo get_phrase('manage_students');?><span class="fa arrow"></span></span></a>
+        <li class="student"> <a href="#" class="waves-effect"> <span class="hide-menu"><?php echo get_phrase('manage_students');?><span class="fa arrow"></span></span></a>
         
                         <ul class=" nav nav-second-level<?php
             if ($page_name == 'new_student' ||
@@ -143,7 +127,7 @@
     <?php $check_admin_permission = $this->db->get_where('admin_role', array('admin_id' => $this->session->userdata('login_user_id')))->row()->manage_attendance;?>
     <?php if($check_admin_permission == '1'):?> 
 
-        <li class="attendance"> <a href="#" class="waves-effect"><i data-icon="&#xe006;" class="fa fa-hospital-o p-r-10"></i> <span class="hide-menu"><?php echo get_phrase('manage_attendance');?><span class="fa arrow"></span></span></a>
+        <li class="attendance"> <a href="#" class="waves-effect"><span class="hide-menu"><?php echo get_phrase('manage_attendance');?><span class="fa arrow"></span></span></a>
         
                         <ul class=" nav nav-second-level<?php
             if ($page_name == 'manage_attendance' || $page_name == 'staff_attendance' ||
@@ -183,7 +167,7 @@
     
 
                 
-        <li> <a href="#" class="waves-effect"><i data-icon="&#xe006;" class="fa fa-university p-r-10"></i> <span class="hide-menu"><?php echo get_phrase('class_information');?><span class="fa arrow"></span></span></a>
+        <li> <a href="#" class="waves-effect"><span class="hide-menu"><?php echo get_phrase('class_information');?><span class="fa arrow"></span></span></a>
         
             <ul class=" nav nav-second-level<?php
             if ($page_name == 'class' ||
@@ -213,13 +197,13 @@
 
                          <li class="<?php if ($page_name == 'subject') echo 'active'; ?>">
                             <a href="<?php echo base_url(); ?>subject/subject/">
-                            <i class="fa fa-book p-r-10"></i>
+                            
                                  <span class="hide-menu"><?php echo get_phrase('manage_subjects'); ?></span>
                             </a>
                         </li>
 
          
-         <li> <a href="#" class="waves-effect"><i data-icon="&#xe006;" class="fa fa-medkit p-r-10"></i> <span class="hide-menu"><?php echo get_phrase('manage_exams');?><span class="fa arrow"></span></span></a>
+         <li> <a href="#" class="waves-effect"> <span class="hide-menu"><?php echo get_phrase('manage_exams');?><span class="fa arrow"></span></span></a>
         
         <ul class=" nav nav-second-level<?php
         if ($page_name == 'submit_exam' || $page_name == 'grade' ||  $page_name == 'createExamination' || 
@@ -262,75 +246,14 @@
                                     
                    
 
-        <li> <a href="#" class="waves-effect"><i data-icon="&#xe006;" class="fa fa-book p-r-10"></i> <span class="hide-menu"><?php echo get_phrase('manage_library');?><span class="fa arrow"></span></span></a>
         
-                        <ul class=" nav nav-second-level<?php
-            if ($page_name == 'book' ||
-                    $page_name == 'publisher' ||
-                    $page_name == 'search_student' ||
-                    $page_name == 'book_category' || $page_name == 'request_book' ||
-                    $page_name == 'author' )
-                echo 'opened active';
-            ?>"><span class="hide-menu">Hostel Information<span class="fa arrow"></span></span>
-
-
-        
-                 <li class="<?php if ($page_name == 'book') echo 'active'; ?> ">
-                <a href="<?php echo base_url(); ?>admin/book">
-                <i class="fa fa-angle-double-right p-r-10"></i>
-                   <span class="hide-menu"><?php echo get_phrase('master_data'); ?></span>
-                </a>
-            </li>
-
-
-                    <li class="<?php if ($page_name == 'publisher') echo 'active'; ?> ">
-                        <a href="<?php echo base_url(); ?>admin/publisher">
-                        <i class="fa fa-angle-double-right p-r-10"></i>
-                            <span class="hide-menu"><?php echo get_phrase('book_publisher'); ?></span>
-                        </a>
-                    </li>
-
-                    
-                    <li class="<?php if ($page_name == 'book_category') echo 'active'; ?> ">
-                        <a href="<?php echo base_url(); ?>admin/book_category">
-                        <i class="fa fa-angle-double-right p-r-10"></i>
-                            <span class="hide-menu"><?php echo get_phrase('book_category'); ?></span>
-                        </a>
-                    </li>
-
-                    
-                    <li class="<?php if ($page_name == 'author') echo 'active'; ?> ">
-                        <a href="<?php echo base_url(); ?>admin/author">
-                        <i class="fa fa-angle-double-right p-r-10"></i>
-                            <span class="hide-menu"><?php echo get_phrase('book_author'); ?></span>
-                        </a>
-                    </li>
- 
-<!--
-                    <li class="<?php if ($page_name == 'search_student') echo 'active'; ?> ">
-                        <a href="<?php echo base_url(); ?>admin/search_student">
-                        <i class="fa fa-angle-double-right p-r-10"></i>
-                            <span class="hide-menu"><?php echo get_phrase('register_student'); ?></span>
-                        </a>
-                    </li>
-
-                    <li class="<?php if ($page_name == 'request_book') echo 'active'; ?> ">
-                        <a href="<?php echo base_url(); ?>admin/request_book">
-                            <i class="fa fa-angle-double-right p-r-10"></i>
-                            <span class="hide-menu"><?php echo get_phrase('request_book'); ?></span>
-                        </a>
-                    </li>
--->
-
-                 </ul>
-                </li>
                 
         
                 
                 
            
                 
-            <li> <a href="#" class="waves-effect"><i data-icon="&#xe006;" class="fa fa-car p-r-10"></i> <span class="hide-menu"><?php echo get_phrase('transportation');?><span class="fa arrow"></span></span></a>
+            <li> <a href="#" class="waves-effect"><span class="hide-menu"><?php echo get_phrase('transportation');?><span class="fa arrow"></span></span></a>
         
                         <ul class=" nav nav-second-level<?php
             if ($page_name == 'transport' ||
@@ -372,7 +295,7 @@
         
 
                 
-        <li> <a href="#" class="waves-effect"><i data-icon="&#xe006;" class="fa fa-bar-chart-o p-r-10"></i> <span class="hide-menu"><?php echo get_phrase('generate_reports');?><span class="fa arrow"></span></span></a>
+        <li> <a href="#" class="waves-effect"> <span class="hide-menu"><?php echo get_phrase('generate_reports');?><span class="fa arrow"></span></span></a>
         
                         <ul class=" nav nav-second-level">  
    
@@ -390,7 +313,7 @@
 
         <?php $checking_level = $this->db->get_where('admin', array('admin_id' => $this->session->userdata('login_user_id')))->row()->level;?>
         <?php if($checking_level == '1'):?>
-        <li> <a href="#" class="waves-effect"><i data-icon="&#xe006;" class="fa fa-cubes p-r-10"></i> <span class="hide-menu"><?php echo get_phrase('role_managements');?><span class="fa arrow"></span></span></a>
+        <li> <a href="#" class="waves-effect"><span class="hide-menu"><?php echo get_phrase('role_managements');?><span class="fa arrow"></span></span></a>
         
             <ul class=" nav nav-second-level<?php
                         if ($page_name == 'newAdministrator') echo 'opened active'; ?>">

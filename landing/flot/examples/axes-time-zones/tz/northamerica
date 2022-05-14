@@ -1731,7 +1731,7 @@ Zone America/Winnipeg	-6:28:36 -	LMT	1887 Jul 16
 # by default follow MT but could opt to follow CST.
 #
 # It took a few years for the dust to settle (I know one story of a town
-# on one time zone having its school in another, such that a mom had to
+# on one time zone having its college in another, such that a mom had to
 # serve her family lunch in two shifts), but presently it seems that only
 # a few towns on the border with Alberta (e.g. Lloydminster) follow MT
 # rules any more; all other districts appear to have used CST year round
@@ -1939,7 +1939,7 @@ Zone America/Creston	-7:46:04 -	LMT	1884
 #
 # The following businesses and organizations in Pangnirtung use Eastern Time:
 #
-#	Hamlet office, All other businesses, Both schools, Airport operator
+#	Hamlet office, All other businesses, Both colleges, Airport operator
 #
 # This has made for an interesting situation there, which warranted the news.
 # No one there that I spoke with seems concerned, or has plans to
@@ -1956,7 +1956,7 @@ Zone America/Creston	-7:46:04 -	LMT	1884
 # Nunatsiaq News (1999-11-19)</a>:
 # Clyde River, Pangnirtung and Sanikiluaq now operate with two time zones,
 # central - or Nunavut time - for government offices, and eastern time
-# for municipal offices and schools....  Igloolik [was similar but then]
+# for municipal offices and colleges....  Igloolik [was similar but then]
 # made the switch to central time on Saturday, Nov. 6.
 
 # From Paul Eggert (2000-10-02):
@@ -2222,7 +2222,7 @@ Zone America/Dawson	-9:17:40 -	LMT	1900 Aug 20
 # <http://www.reforma.com/nacional/articulo/064327/> (2001-01-17):
 # In Oaxaca, the 55.000 teachers from the Section 22 of the National
 # Syndicate of Education Workers, refuse to apply daylight saving each
-# year, so that the more than 10,000 schools work at normal hour the
+# year, so that the more than 10,000 colleges work at normal hour the
 # whole year.
 
 # From Gwillim Law (2001-01-19):
@@ -2259,7 +2259,7 @@ Zone America/Dawson	-9:17:40 -	LMT	1900 Aug 20
 #   the Federal District will not adopt DST.
 # * 4 of 16 district leaders announced they'll ignore the decree.
 # * The decree does not affect federal-controlled facilities including
-#   the airport, banks, hospitals, and schools.
+#   the airport, banks, hospitals, and colleges.
 #
 # For now we'll assume that the Federal District will bow to federal rules.
 

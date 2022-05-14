@@ -236,7 +236,7 @@
 					
 
 						<div class="form-group">
-                 	<label class="col-md-9" for="example-text"><?php echo get_phrase('previous_school_name');?></label>
+                 	<label class="col-md-9" for="example-text"><?php echo get_phrase('previous_college_name');?></label>
                     <div class="col-sm-12">
 							<input type="text" class="form-control" value="<?php echo $student['ps_attended'];?>" name="ps_attended" data-validate="required" value="" autofocus>
 						</div>

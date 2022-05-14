@@ -7,7 +7,7 @@
                     </div>
                     <div class="col-lg-9 col-sm-8 col-md-8 col-xs-12"> <a href="https://iem.edu.in/" target="_blank" class="btn btn-info btn-sm pull-right m-l-20 btn-rounded hidden-xs hidden-sm waves-effect waves-light">College website</a>
                         <ol class="breadcrumb">
-                            <li><a href=""><?php echo $system_name;?></a></li>
+                            
                             <li class="active"><?php echo date('d M,Y');?></li>
                         </ol>
                     </div>

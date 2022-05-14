@@ -3,7 +3,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="white-box">
                             <div class="r-icon-stats">
-                                <i class="ti-user bg-megna"></i>
+                               
                                 <div class="bodystate">
                                     <h4><?php echo $this->db->count_all_results('student');?></h4>
                                     <span class="text-muted"><?php echo get_phrase('Students');?></span>
@@ -14,7 +14,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="white-box">
                             <div class="r-icon-stats">
-                                <i class="ti-user bg-info"></i>
+                                
                                 <div class="bodystate">
                                     <h4><?php echo $this->db->count_all_results('teacher');?></h4>
                                     <span class="text-muted"><?php echo get_phrase('Teachers');?></span>
@@ -29,7 +29,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="white-box">
                             <div class="r-icon-stats">
-                                <i class="ti-wallet bg-success"></i>
+                                
                                 <div class="bodystate">
                                     <h4><?php echo $this->db->count_all_results('admin');?></h4>
                                     <span class="text-muted"><?php echo get_phrase('Admin');?></span>
@@ -40,7 +40,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="white-box">
                             <div class="r-icon-stats">
-                                <i class="ti-wallet bg-inverse"></i>
+                                
                                 <div class="bodystate">
                                     <h4>
                                     <?php 

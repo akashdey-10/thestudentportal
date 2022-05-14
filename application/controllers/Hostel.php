@@ -61,7 +61,7 @@ class Hostel extends CI_Controller {
         }
 
 
-         /***********  The function manages school dormitory  ***********************/
+         /***********  The function manages college dormitory  ***********************/
     function dormitory ($param1 = null, $param2 = null, $param3 = null){
 
         if($param1 == 'create'){

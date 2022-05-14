@@ -16,7 +16,7 @@ window.onload = function() {
       {
         element: ".enquiry",
         title: "Academics",
-        description: "There are so many things to be done under this menu. The below are what you can do under academics:<br> <b>Enquiry Category:</b> This is where admin will category that will enable users or visitor to select from contact page or enquiry page in the software website.<br>Other things can be done under academics are: <b>Approval of parents product sales</b>, <b>help link</b>, <b>generate result PIN for students</b>, <b>school clubs</b>, <b>circular</b>, <b>manage help desk</b>, <b>holiday</b>, <b>moral talks and others.</b>",
+        description: "There are so many things to be done under this menu. The below are what you can do under academics:<br> <b>Enquiry Category:</b> This is where admin will category that will enable users or visitor to select from contact page or enquiry page in the software website.<br>Other things can be done under academics are: <b>Approval of parents product sales</b>, <b>help link</b>, <b>generate result PIN for students</b>, <b>college clubs</b>, <b>circular</b>, <b>manage help desk</b>, <b>holiday</b>, <b>moral talks and others.</b>",
         data: "Custom Data",
         position: "right"
       },

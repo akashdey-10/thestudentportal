@@ -51,7 +51,7 @@ class Report extends CI_Controller {
 
 
 
-    /***********  The function below manages school marks ***********************/
+    /***********  The function below manages college marks ***********************/
     function examMarkReport ($exam_id = null, $class_id = null, $student_id = null){
 
         if($this->input->post('operation') == 'selection'){
@@ -77,7 +77,7 @@ class Report extends CI_Controller {
     $page_data['page_title']    = get_phrase('Student Marks');
     $this->load->view('backend/index', $page_data);
 }
-/***********  The function that manages school marks ends here ***********************/
+/***********  The function that manages college marks ends here ***********************/
 
 
 	

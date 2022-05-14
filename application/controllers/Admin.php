@@ -709,7 +709,7 @@ class Admin extends CI_Controller {
         }
     
 
-    /***********  The function manages school timetable  ***********************/
+    /***********  The function manages college timetable  ***********************/
     function class_routine ($param1 = null, $param2 = null, $param3 = null){
 
         if($param1 == 'create'){
@@ -738,14 +738,14 @@ class Admin extends CI_Controller {
     function listStudentTimetable(){
 
         $page_data['page_name']     = 'listStudentTimetable';
-        $page_data['page_title']    = get_phrase('School Timetable');
+        $page_data['page_title']    = get_phrase('College Timetable');
         $this->load->view('backend/index', $page_data);
     }
 
     function class_routine_add(){
 
         $page_data['page_name']     = 'class_routine_add';
-        $page_data['page_title']    = get_phrase('School Timetable');
+        $page_data['page_title']    = get_phrase('College Timetable');
         $this->load->view('backend/index', $page_data);
     }
 
@@ -779,7 +779,7 @@ class Admin extends CI_Controller {
     }
 
 
-    /***********  The function manages school dormitory  ***********************/
+    /***********  The function manages college dormitory  ***********************/
     function dormitory ($param1 = null, $param2 = null, $param3 = null){
 
     if($param1 == 'create'){
@@ -1362,7 +1362,7 @@ class Admin extends CI_Controller {
     }
     /***********  The function below add, update and delete book table ends here ***********************/
 
-    /***********  The function below manages school event ***********************/
+    /***********  The function below manages college event ***********************/
     function noticeboard ($param1 = null, $param2 = null, $param3 = null){
 
         if($param1 == 'create'){
@@ -1384,12 +1384,12 @@ class Admin extends CI_Controller {
         }
 
         $page_data['page_name']     = 'noticeboard';
-        $page_data['page_title']    = get_phrase('School Event');
+        $page_data['page_title']    = get_phrase('College Event');
         $this->load->view('backend/index', $page_data);
     }
-    /***********  The function that manages school events ends here ***********************/
+    /***********  The function that manages college events ends here ***********************/
 
-     /***********  The function below manages school language ***********************/
+     /***********  The function below manages college language ***********************/
      function manage_language ($param1 = null, $param2 = null, $param3 = null){
 
         if($param1 == 'edit_phrase'){
@@ -1418,7 +1418,7 @@ class Admin extends CI_Controller {
         $page_data['page_title']    = get_phrase('Manage Language');
         $this->load->view('backend/index', $page_data);
     }
-    /***********  The function that manages school language ends here ***********************/
+    /***********  The function that manages college language ends here ***********************/
 
     function updatePhraseWithAjax(){
 
@@ -1433,7 +1433,7 @@ class Admin extends CI_Controller {
     }
 
 
-    /***********  The function below manages school marks ***********************/
+    /***********  The function below manages college marks ***********************/
     function marks ($exam_id = null, $class_id = null, $student_id = null){
 
             if($this->input->post('operation') == 'selection'){
@@ -1479,11 +1479,11 @@ class Admin extends CI_Controller {
         $page_data['page_title']    = get_phrase('Student Marks');
         $this->load->view('backend/index', $page_data);
     }
-    /***********  The function that manages school marks ends here ***********************/
+    /***********  The function that manages college marks ends here ***********************/
 
 
 
-    /***********  The function below manages school marks ***********************/
+    /***********  The function below manages college marks ***********************/
      function student_marksheet_subject ($exam_id = null, $class_id = null, $subject_id = null){
 
         if($this->input->post('operation') == 'selection'){
@@ -1529,9 +1529,9 @@ class Admin extends CI_Controller {
     $page_data['page_title']    = get_phrase('Student Marks');
     $this->load->view('backend/index', $page_data);
     }
-    /***********  The function that manages school marks ends here ***********************/
+    /***********  The function that manages college marks ends here ***********************/
 
-    /***********  The function below manages school event ***********************/
+    /***********  The function below manages college event ***********************/
     function exam_marks_sms ($param1 = null, $param2 = null, $param3 = null){
 
         if($param1 == 'send'){
@@ -1544,7 +1544,7 @@ class Admin extends CI_Controller {
         $page_data['page_title']    = get_phrase('Send Student Scores');
         $this->load->view('backend/index', $page_data);
     }
-    /***********  The function that manages school events ends here ***********************/
+    /***********  The function that manages college events ends here ***********************/
 
     
     /***********  The function below manages new admin ***********************/

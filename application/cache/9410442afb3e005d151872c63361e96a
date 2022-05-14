@@ -15,34 +15,34 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
 		
 
         <title>OFINE SCHOOL MANAGEMENT SYSTEMS | OFINE SCHOOL MANAGEMENT SYSTEMS</title>   <!-- Bootstrap core CSS -->
-		<link rel="icon"  sizes="16x16" href="http://127.0.0.1/newschool/uploads/logo.png">
-    <link href="http://127.0.0.1/newschool/landing/css/bootstrap.min.css" rel="stylesheet">
+		<link rel="icon"  sizes="16x16" href="http://127.0.0.1/newcollege/uploads/logo.png">
+    <link href="http://127.0.0.1/newcollege/landing/css/bootstrap.min.css" rel="stylesheet">
     <!-- Bx-Slider StyleSheet CSS -->
-    <link href="http://127.0.0.1/newschool/landing/css/jquery.bxslider.css" rel="stylesheet"> 
+    <link href="http://127.0.0.1/newcollege/landing/css/jquery.bxslider.css" rel="stylesheet"> 
     <!-- Font Awesome StyleSheet CSS -->
-    <link href="http://127.0.0.1/newschool/landing/css/font-awesome.css" rel="stylesheet">
-    <link href="http://127.0.0.1/newschool/landing/css/svg-style.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/css/font-awesome.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/css/svg-style.css" rel="stylesheet">
     <!-- Pretty Photo CSS -->
-    <link href="http://127.0.0.1/newschool/landing/css/prettyPhoto.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/css/prettyPhoto.css" rel="stylesheet">
 	<!-- DL Menu CSS -->
-	<link href="http://127.0.0.1/newschool/landing/js/dl-menu/component.css" rel="stylesheet">
+	<link href="http://127.0.0.1/newcollege/landing/js/dl-menu/component.css" rel="stylesheet">
     <!-- Widget CSS -->
-    <link href="http://127.0.0.1/newschool/landing/css/widget.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/css/widget.css" rel="stylesheet">
     <!-- Typography CSS -->
-    <link href="http://127.0.0.1/newschool/landing/css/typography.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/css/typography.css" rel="stylesheet">
     <!-- Owl Carousel CSS -->
-    <link href="http://127.0.0.1/newschool/landing/css/owl.carousel.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/css/owl.carousel.css" rel="stylesheet">
     <!-- Shortcodes CSS -->
-    <link href="http://127.0.0.1/newschool/landing/css/shortcodes.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/css/shortcodes.css" rel="stylesheet">
 	<!-- Custom Main StyleSheet CSS -->
-    <link href="http://127.0.0.1/newschool/landing/style.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/style.css" rel="stylesheet">
     <!-- Color CSS -->
-    <link href="http://127.0.0.1/newschool/landing/css/color.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/css/color.css" rel="stylesheet">
     <!-- Responsive CSS -->
-    <link href="http://127.0.0.1/newschool/landing/css/responsive.css" rel="stylesheet">
- 	<link href="http://127.0.0.1/newschool/landing/css/toast-master/css/jquery.toast.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/css/responsive.css" rel="stylesheet">
+ 	<link href="http://127.0.0.1/newcollege/landing/css/toast-master/css/jquery.toast.css" rel="stylesheet">
 <!-- Popup CSS -->
-    <link href="http://127.0.0.1/newschool/landing/Magnific-Popup-master/dist/magnific-popup.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newcollege/landing/Magnific-Popup-master/dist/magnific-popup.css" rel="stylesheet">
 	
 	
   </head>
@@ -64,7 +64,7 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
                 <div class="top_ui_element">
                     <ul>
                         <li><i class="fa fa-envelope"></i><a href="mailto:optimumproblemsolver@gmail.com">optimumproblemsolver@gmail.com</a></li>
-                        <li><i class="fa fa-phone"></i><a href="tel:+1564783934">+1564783934</a>&nbsp;&nbsp;<a href="http://127.0.0.1/newschool/welcome/login/"><i class="fa fa-sign-in"></i>&nbsp;Login</a></li>
+                        <li><i class="fa fa-phone"></i><a href="tel:+1564783934">+1564783934</a>&nbsp;&nbsp;<a href="http://127.0.0.1/newcollege/welcome/login/"><i class="fa fa-sign-in"></i>&nbsp;Login</a></li>
                     </ul>
                 </div>            </div>
         </div>
@@ -74,8 +74,8 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
         <div class="logo_nav_outer_wrap">
         	<div class="container">
                 <div class="logo_wrap">
-  						<a href="http://127.0.0.1/newschool/" class="logo">
-                        <img src="http://127.0.0.1/newschool/uploads/logo.png" width="225" height="36" alt="" />
+  						<a href="http://127.0.0.1/newcollege/" class="logo">
+                        <img src="http://127.0.0.1/newcollege/uploads/logo.png" width="225" height="36" alt="" />
                    	 	</a>                
 						</div>
                <!-- <div class="top_cart_wrap">
@@ -92,28 +92,28 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
                 </div>-->
                <nav class="main_navigation">
                     <ul>
-                        <li><a href="http://127.0.0.1/newschool/welcome/">Home<span>MAIN PAGE</span></a></li>
-                        <li><a href="http://127.0.0.1/newschool/welcome/about">About<span>ABOUT US</span></a></li>
-                        <li><a href="http://127.0.0.1/newschool/welcome/admission">Admission<span>ADMISSION FORM</span></a></li>
-                        <li><a href="http://127.0.0.1/newschool/welcome/teacher">Teachers<span>INSTURCTORS</span></a></li>
-                        <li><a href="http://127.0.0.1/newschool/welcome/checkStudentResult">Check Result<span>WITH SCRATCH CARD</span></a></li>
-                        <li><a href="http://127.0.0.1/newschool/welcome/gallery">Gallery<span>PHOTO GALLERY</span></a></li>
-						<li><a href="http://127.0.0.1/newschool/welcome/marketPlace">market place<span>PARENTS AND STAFF</span></a></li>
-                        <li><a href="http://127.0.0.1/newschool/welcome/contact/validate">Contact<span>Contact Us</span></a></li>
+                        <li><a href="http://127.0.0.1/newcollege/welcome/">Home<span>MAIN PAGE</span></a></li>
+                        <li><a href="http://127.0.0.1/newcollege/welcome/about">About<span>ABOUT US</span></a></li>
+                        <li><a href="http://127.0.0.1/newcollege/welcome/admission">Admission<span>ADMISSION FORM</span></a></li>
+                        <li><a href="http://127.0.0.1/newcollege/welcome/teacher">Teachers<span>INSTURCTORS</span></a></li>
+                        <li><a href="http://127.0.0.1/newcollege/welcome/checkStudentResult">Check Result<span>WITH SCRATCH CARD</span></a></li>
+                        <li><a href="http://127.0.0.1/newcollege/welcome/gallery">Gallery<span>PHOTO GALLERY</span></a></li>
+						<li><a href="http://127.0.0.1/newcollege/welcome/marketPlace">market place<span>PARENTS AND STAFF</span></a></li>
+                        <li><a href="http://127.0.0.1/newcollege/welcome/contact/validate">Contact<span>Contact Us</span></a></li>
                     </ul>
                 </nav>
                 <!--DL Menu Start-->
                 <div id="kode-responsive-navigation" class="dl-menuwrapper">
                     <button class="dl-trigger">Open Menu</button>
                     <ul class="dl-menu">
-                        <li class="active"><a href="http://127.0.0.1/newschool/welcome/">Home</a></li>
-                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/about">about us</a></li>
-                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/admission">Admission</a></li>
-                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/teacher">Teachers</a></li>
-						<li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/checkStudentResult">Check Result</a></li>
-						<li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/gallery">Gallery</a></li>
-                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/marketPlace">Market Place</a></li>
-                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/contact/validate">Contact Us</a></li>
+                        <li class="active"><a href="http://127.0.0.1/newcollege/welcome/">Home</a></li>
+                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newcollege/welcome/about">about us</a></li>
+                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newcollege/welcome/admission">Admission</a></li>
+                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newcollege/welcome/teacher">Teachers</a></li>
+						<li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newcollege/welcome/checkStudentResult">Check Result</a></li>
+						<li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newcollege/welcome/gallery">Gallery</a></li>
+                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newcollege/welcome/marketPlace">Market Place</a></li>
+                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newcollege/welcome/contact/validate">Contact Us</a></li>
                     </ul>
                 </div>                <!--DL Menu END-->
             </div>
@@ -134,7 +134,7 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
                 <div class="col-md-6">
                 	<div class="ct_breadcrumb">
                     	<ul>
-                        	<li><a href="http://127.0.0.1/newschool/welcome/">Home</a></li>
+                        	<li><a href="http://127.0.0.1/newcollege/welcome/">Home</a></li>
                             <li><a href="#">chose from the market place</a></li>
                         </ul>
                     </div>
@@ -152,8 +152,8 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
 				<div class="ct_heading_1_wrap">
                 	<h3>Market Place</h3>
 					
-                    <p>This is a market place for parents and every members of the school. This platform is strictly for staff of the school and all the parents whom their wards are still bonafide students of the school. Please note that this is not an ecommerce platform, where you can purchase goods directly with your credit card. This plaform is only meant for parents or staff of the school to show case their handy work such as funitures, shoes, bags, household utensils, etc. where potentials clients can view the product and get the moble number of the seller.</p>
-					<span><img src="http://127.0.0.1/newschool/landing/images/hdg-01.png" alt=""></span>
+                    <p>This is a market place for parents and every members of the college. This platform is strictly for staff of the college and all the parents whom their wards are still bonafide students of the college. Please note that this is not an ecommerce platform, where you can purchase goods directly with your credit card. This plaform is only meant for parents or staff of the college to show case their handy work such as funitures, shoes, bags, household utensils, etc. where potentials clients can view the product and get the moble number of the seller.</p>
+					<span><img src="http://127.0.0.1/newcollege/landing/images/hdg-01.png" alt=""></span>
                 </div>
 
 				<div class="col-sm-12">
@@ -187,23 +187,23 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
                             	<h5>Select Categories</h5>
 								
                                 <ul>
-								                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/1">Computers</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/2">Vehicles</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/3">Phones</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/4">Wears</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/5">Bags</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/6">Cosmetics</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/7">Electronics</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/8">Properties</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/9">Foods</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/10">Others</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/11">Software</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/12">Project Materials</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/13">Arts Works</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/14">Printing</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/15">Decoration</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/16">Archietectural Design</a></li>
-									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/17">Furnitures</a></li>
+								                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/1">Computers</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/2">Vehicles</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/3">Phones</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/4">Wears</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/5">Bags</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/6">Cosmetics</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/7">Electronics</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/8">Properties</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/9">Foods</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/10">Others</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/11">Software</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/12">Project Materials</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/13">Arts Works</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/14">Printing</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/15">Decoration</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/16">Archietectural Design</a></li>
+									                                	<li><a href="http://127.0.0.1/newcollege/welcome/loadMarketPlace/17">Furnitures</a></li>
 									                                </ul>
 								
                             </div>
@@ -227,7 +227,7 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
         	<div class="container">
             	<div class="ct_learn_more">
                 	<h4>We provide universal access to the world’s best <span>education.</span></h4>
-                    <a href="http://127.0.0.1/newschool/welcome/enquiry">Learn More</a>
+                    <a href="http://127.0.0.1/newcollege/welcome/enquiry">Learn More</a>
                 </div>
             </div>
         </div>
@@ -259,10 +259,10 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
                 	<div class="col-md-3 col-sm-6">
                     	<div class="footer_col_1 widget">
 						
-                        <img src="http://127.0.0.1/newschool/uploads/logo.png" width="150" height="40" alt="" />
+                        <img src="http://127.0.0.1/newcollege/uploads/logo.png" width="150" height="40" alt="" />
                    	 	</a>
 						<p align="justify" style="color:white">						Meet our able, gallant and most competent teachers that will help your children/child to attain higher success in life. We teach to become a creative thinker and to be useful to the society.						</p>
-                         <a href="http://127.0.0.1/newschool/welcome/contact/validate/" class="btn btn-success btn-rounded btn-sm" style="color:white">GET IN TOUCH</a>
+                         <a href="http://127.0.0.1/newcollege/welcome/contact/validate/" class="btn btn-success btn-rounded btn-sm" style="color:white">GET IN TOUCH</a>
                             
                         </div>
                     </div>
@@ -271,11 +271,11 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
                     	<div class="foo_col_2 widget">
                         	<h5>More Pages</h5>
                             <ul>
-                            	<li><a href="http://127.0.0.1/newschool/welcome/contact/validate">Contact Us</a></li>
-                                <li><a href="http://127.0.0.1/newschool/welcome/teacher">View Teachers</a></li>
-                                <li><a href="http://127.0.0.1/newschool/welcome/admission">Admission</a></li>
-                                <li><a href="http://127.0.0.1/newschool/welcome/gallery">School Gallery</a></li>
-								<li><a href="http://127.0.0.1/newschool/welcome/checkStudentResult">Check Result</a></li>
+                            	<li><a href="http://127.0.0.1/newcollege/welcome/contact/validate">Contact Us</a></li>
+                                <li><a href="http://127.0.0.1/newcollege/welcome/teacher">View Teachers</a></li>
+                                <li><a href="http://127.0.0.1/newcollege/welcome/admission">Admission</a></li>
+                                <li><a href="http://127.0.0.1/newcollege/welcome/gallery">College Gallery</a></li>
+								<li><a href="http://127.0.0.1/newcollege/welcome/checkStudentResult">Check Result</a></li>
 
                             </ul>
                         </div>
@@ -285,11 +285,11 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
                     	<div class="foo_col_2 widget">
                         	<h5>Quick Links</h5>
                             <ul>
-                            	<li><a href="http://127.0.0.1/newschool/welcome/about">About Us</a></li>
-                                <li><a href="http://127.0.0.1/newschool/welcome/teacher">Our Teachers</a></li>
-                                <li><a href="http://127.0.0.1/newschool/welcome/marketPlace">Market Place</a></li>
-                                <li><a href="http://127.0.0.1/newschool/welcome/gallery">Our Gallery</a></li>
-                                <li><a href="http://127.0.0.1/newschool/welcome/contact/validate">Enquiry Now</a></li>
+                            	<li><a href="http://127.0.0.1/newcollege/welcome/about">About Us</a></li>
+                                <li><a href="http://127.0.0.1/newcollege/welcome/teacher">Our Teachers</a></li>
+                                <li><a href="http://127.0.0.1/newcollege/welcome/marketPlace">Market Place</a></li>
+                                <li><a href="http://127.0.0.1/newcollege/welcome/gallery">Our Gallery</a></li>
+                                <li><a href="http://127.0.0.1/newcollege/welcome/contact/validate">Enquiry Now</a></li>
 
                             </ul>
                         </div>
@@ -303,7 +303,7 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
 						   								546787, Kertz shopping complext, Silicon Valley, United State of America, New York city							</p>
 							<p align="justify" style="color:white">
 						   	Phone: 							+1564783934							</p>
-                             <p><img src="http://127.0.0.1/newschool/landing/secure.png" alt="" width="80"><img src="http://127.0.0.1/newschool/landing/cloud.png" alt="" width="80"></p>
+                             <p><img src="http://127.0.0.1/newcollege/landing/secure.png" alt="" width="80"><img src="http://127.0.0.1/newcollege/landing/cloud.png" alt="" width="80"></p>
 								
                             </ul>
                         </div>
@@ -324,11 +324,11 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
                     <div class="col-sm-12">
 					
 					 <div class="col-sm-4">	
-				<a href="#" ><img src="http://127.0.0.1/newschool/landing/images/ios.png" width="150" height="40" alt="" /></a>
-				<a href="#" ><img src="http://127.0.0.1/newschool/landing/images/android.png" width="150" height="40" alt="" /></a>
+				<a href="#" ><img src="http://127.0.0.1/newcollege/landing/images/ios.png" width="150" height="40" alt="" /></a>
+				<a href="#" ><img src="http://127.0.0.1/newcollege/landing/images/android.png" width="150" height="40" alt="" /></a>
 				</div>
 				 <div class="col-sm-8">	
-				<div style="margin: 0px auto; max-width: auto;" class="pull-right">  <form action="http://127.0.0.1/newschool/admin/subscribe" class="" method="post" accept-charset="utf-8">
+				<div style="margin: 0px auto; max-width: auto;" class="pull-right">  <form action="http://127.0.0.1/newcollege/admin/subscribe" class="" method="post" accept-charset="utf-8">
  <div class="nc-search" role="search" style="position: relative; display: flex; flex-flow: row wrap; margin: 0px auto; padding: 0.75em 0px 0px; font-family: -apple-system, blinkmacsystemfont, 'segoe ui', roboto, oxygen, ubuntu, cantarell, 'fira sans', 'droid sans', 'helvetica neue', sans-serif;"> <input  name="email" id="subscr" style="flex: 1 1 0%; min-width: 100px; min-height: 42px; padding: 0px 0.5em; border: 1px solid #d6d6d6; font-size: 1.125em; line-height: 20px; margin-right: 0px !important; margin-top: 0px !important; border-top-left-radius: 5px !important; border-top-right-radius: 0px !important; border-bottom-right-radius: 0px !important; border-bottom-left-radius: 5px !important;" autocomplete="off" placeholder="Enter your email address here" autocorrect="off" spellcheck="false" autocapitalize="off" type="text" required><input style="flex: 0 1 0%; min-width: 94px; width: 94px; padding: 0px 1em; font-size: 1.125em; line-height: 20px; text-align: center; border: 1px solid rgb(222, 55, 35); color: rgb(255, 255, 255); text-shadow: rgb(222, 55, 35) 0px -1px 1px; background: rgba(0, 0, 0, 0) linear-gradient(rgb(253, 79, 0) 0%, rgb(222, 55, 35) 100%) repeat scroll 0% 0%; cursor: pointer; min-height: 42px !important; margin-left: 0px !important; margin-top: 0px !important; border-radius: 0px 5px 5px 0px !important;" value="Subscribe" type="submit"> </div> </form></div></div></div></div>
 			
             </div>
@@ -372,23 +372,23 @@ a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 20
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
     <!--Bootstrap core JavaScript-->
-    <script src="http://127.0.0.1/newschool/landing/js/jquery.js"></script>
-    <script src="http://127.0.0.1/newschool/landing/js/bootstrap.min.js"></script>
+    <script src="http://127.0.0.1/newcollege/landing/js/jquery.js"></script>
+    <script src="http://127.0.0.1/newcollege/landing/js/bootstrap.min.js"></script>
     <!--Bx-Slider JavaScript-->
-	<script src="http://127.0.0.1/newschool/landing/js/jquery.bxslider.min.js"></script>
+	<script src="http://127.0.0.1/newcollege/landing/js/jquery.bxslider.min.js"></script>
     <!--Dl Menu Script-->
-	<script src="http://127.0.0.1/newschool/landing/js/dl-menu/modernizr.custom.js"></script>
-	<script src="http://127.0.0.1/newschool/landing/js/dl-menu/jquery.dlmenu.js"></script>
+	<script src="http://127.0.0.1/newcollege/landing/js/dl-menu/modernizr.custom.js"></script>
+	<script src="http://127.0.0.1/newcollege/landing/js/dl-menu/jquery.dlmenu.js"></script>
     <!--Owl Carousel JavaScript-->
-	<script src="http://127.0.0.1/newschool/landing/js/owl.carousel.js"></script>
+	<script src="http://127.0.0.1/newcollege/landing/js/owl.carousel.js"></script>
     <!--Time Counter Javascript-->
-    <script src="http://127.0.0.1/newschool/landing/js/jquery.downCount.js"></script>
+    <script src="http://127.0.0.1/newcollege/landing/js/jquery.downCount.js"></script>
     <!--Pretty Photo Javascript-->
-    <script src="http://127.0.0.1/newschool/landing/js/jquery.prettyPhoto.js"></script>
+    <script src="http://127.0.0.1/newcollege/landing/js/jquery.prettyPhoto.js"></script>
     <!--Way Points Javascript-->
-    <script src="http://127.0.0.1/newschool/landing/js/waypoints-min.js"></script>
+    <script src="http://127.0.0.1/newcollege/landing/js/waypoints-min.js"></script>
     <!--Custom JavaScript-->
-	<script src="http://127.0.0.1/newschool/landing/js/custom.js"></script>
+	<script src="http://127.0.0.1/newcollege/landing/js/custom.js"></script>
 	
   	<script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -401,7 +401,7 @@ s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 </script>	
-	 <script src="http://127.0.0.1/newschool/landing/css/toast-master/js/jquery.toast.js"></script>
+	 <script src="http://127.0.0.1/newcollege/landing/css/toast-master/js/jquery.toast.js"></script>
 
 		 <!-- auto hide message div-->
     <script type="text/javascript">
@@ -473,8 +473,8 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 
 		 <!-- Magnific popup JavaScript -->
-    <script src="http://127.0.0.1/newschool/landing/Magnific-Popup-master/dist/jquery.magnific-popup.min.js"></script>
-    <script src="http://127.0.0.1/newschool/landing/Magnific-Popup-master/dist/jquery.magnific-popup-init.js"></script>	
+    <script src="http://127.0.0.1/newcollege/landing/Magnific-Popup-master/dist/jquery.magnific-popup.min.js"></script>
+    <script src="http://127.0.0.1/newcollege/landing/Magnific-Popup-master/dist/jquery.magnific-popup-init.js"></script>	
 	<script src="assets/js/neon-custom-ajax.js"></script>
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
